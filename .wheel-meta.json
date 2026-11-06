@@ -1,0 +1,22 @@
+{
+  "wheel_id": 477,
+  "structure": "umbrella",
+  "slug": "sydneyhomeloanbroker-108",
+  "project": "mortgage-brokers-sydney-investment-de47ce60c87c05b3ef206e7792a3",
+  "parent_t1_ref": "sydneyhomeloanbroker-151",
+  "node_role": "feeder",
+  "money_target": "sydneyhomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers sydney investment",
+  "intended_url": "http://mortgage-brokers-sydney-investment-de47ce60c87c05b3ef206e7792a3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "2dfb5d5ddff213af",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/sydneyhomeloanbroker-151/",
+      "anchor": "the mortgage brokers sydney what to expect overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
